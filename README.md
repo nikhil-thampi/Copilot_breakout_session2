@@ -24,6 +24,6 @@ Use the C++ files in the repo for the exercises. Complete the exercises in the s
 3. How can you make the program thread safe?
 4. After making the above changes, create the unit test plan and add documentation.
 
-## You are now a champion in GitHub Copilot 🥳
+## You are now a champion of GitHub Copilot 🥳
 
 
