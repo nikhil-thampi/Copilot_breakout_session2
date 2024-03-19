@@ -3,7 +3,7 @@
 Use the C++ files in the repo for the exercises. Complete the exercises in the sequential order.
 
 ## Exercise 1
-1. Understand the logic for the exercise1.cpp and add the documentation using GitHub Copilot.
+1. Understand the logic for the exercise1.cpp and add sufficient inline documentation using GitHub Copilot. Create a README markdown file for the program.
 2. Add an additional feature to the existing solution using GitHub Copilot prompt crafting techniques and create a unit test plan for the new features. 
 
 ## Exercise 2
