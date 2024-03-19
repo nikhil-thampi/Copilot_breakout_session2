@@ -7,7 +7,7 @@ Use the C++ files in the repo for the exercises. Complete the exercises in the s
 2. Add an additional feature to the existing solution using GitHub Copilot prompt crafting techniques and create a unit test plan for the new features. 
 
 ## Exercise 2
-1. Translate the codebase in exercise2.cpp to C#, generate unit test cases for the code and corresponding documentation.
+1. Understand the COBOL file in exercise2.cbl and identify the underlying logic of the program. Translate the codebase in exercise2.cbl to C#, generate unit test cases for the code and corresponding documentation (including README markdown file).
 
 ### Exercise 3
 
